@@ -29,8 +29,8 @@ The Electric Vehicle Market Segmentation Project aims to analyze and segment the
 ## Repository Structure
 
 - `dataset/`: Directory for storing datasets and data preprocessing scripts.
-- `notebooks/`: Jupyter notebooks for data analysis, modeling, and visualization.
-- `reports/`: Documentation, reports, and presentations summarizing project findings and recommendations.
+- `notebook/`: Jupyter notebooks for data analysis, modeling, and visualization.
+- `report/`: Documentation, reports, and presentations summarizing project findings and recommendations.
 
 ## Getting Started
 
