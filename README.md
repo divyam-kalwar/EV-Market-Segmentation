@@ -46,7 +46,7 @@ To get started with the Electric Vehicle Market Segmentation Project:
    cd ev-market-segmentation
    ```
 
-3. Explore the `notebooks/` directory for Jupyter notebooks containing data analysis and modeling scripts.
+3. Explore the `notebook/` directory for Jupyter notebooks containing data analysis and modeling scripts.
 
-4. Refer to the documentation and reports in the `reports/` directory for project insights and recommendations.
+4. Refer to the documentation and reports in the `report/` directory for project insights and recommendations.
 
