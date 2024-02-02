@@ -1,7 +1,3 @@
-Here's a sample README.md file for your GitHub repository based on the details provided:
-
----
-
 # Electric Vehicle Market Segmentation Project
 
 ## Overview
